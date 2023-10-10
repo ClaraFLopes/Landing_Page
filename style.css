@@ -1,0 +1,120 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(255, 218, 239);
+    color:rgb(238, 59, 163)
+}
+
+picture {
+    text-align: center;
+    display: block;
+    min-width: 200px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    text-align: justify;
+    color:rgb(69, 68, 68)
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  .vida {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    background-color: palevioletred;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+
+  }
+
+  .github {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    background-color: palevioletred;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+
+  }
+
+  .serviços {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    background-color: palevioletred;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+
+  }
+
+  .curriculo {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border: none;
+    background-color: palevioletred;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+
+
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+
+  }
+
+  .texto {
+    margin-left: 200px;
+    background-color: rgb(224, 180, 194);
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+
+  .foto {
+    margin-left: 100px;
+
+  }
+
+  .tabela {
+    border: 10px solid palevioletred;
+  }
+
+  .container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+  }
+
+  .vídeo {
+    margin-right: 50px;
+  }
+
+  .lista {
+    margin-left: 50px;
+  }
